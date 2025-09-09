@@ -1,0 +1,12 @@
+flask 
+flask-cors 
+flask-sqlalchemy 
+flask-bcrypt 
+flask-jwt-extended
+weasyprint
+python-dotenv
+psycopg2
+gunicorn==19.7.1
+requests
+redis
+flask-migrate
