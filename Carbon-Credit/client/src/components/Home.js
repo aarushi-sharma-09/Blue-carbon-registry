@@ -39,7 +39,7 @@ const Home = () => {
             <div className="text-sm text-slate-600">
               Smart Contract:
               <a
-                href="https://sepolia.etherscan.io/address/0x15Ef15a50a2F72126EBcDC6989044Ce6ae322802"
+                href="https://sepolia.etherscan.io/address/0x95B4E3691bd37e753782E9c70455445419959C7f"
                 className="ml-2 font-mono text-indigo-600 hover:text-indigo-800 transition-colors underline decoration-dotted"
                 target="_blank"
                 rel="noreferrer"
