@@ -14,7 +14,7 @@
 
 [![Node.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=00D4AA)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a)](https://reactjs.org/)
-> [![ JavaScript ]( https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1a1a ) ]( https://www.javascript.com/ )
+[![ JavaScript ]( https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1a1a ) ]( https://www.javascript.com/ )
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=1a1a1a)](https://www.framer.com/motion/)
 
@@ -23,7 +23,7 @@
 
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=627EEA)](https://ethereum.org/)
 [![ Sepolia ]( https://img.shields.io/badge/Sepolia-4B0082?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1a1a1a ) ]( https://sepolia.ethereum.org/ )
->[![Solidity](https://img.shields.io/badge/Solidity_0.8-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=1a1a1a)](https://soliditylang.org/)
+[![Solidity](https://img.shields.io/badge/Solidity_0.8-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=1a1a1a)](https://soliditylang.org/)
 [![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white&labelColor=1a1a1a)](https://web3js.readthedocs.io/)
 [![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1a1a1a)](https://chain.link/)
 
@@ -34,11 +34,9 @@
 [![ PyTorch ]( https://img.shields.io/badge/PyTorch-E94E77?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a1a ) ]( https://pytorch.org/ )
 
 ### **🗄️ Database & Storage**
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,ipfs" />
+<img src="https://skillicons.dev/icons?i=postgresql,ipfs" />
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)](https://postgresql.org/)
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a)](https://mongodb.com/)
 
 
 </div>
@@ -75,7 +73,6 @@ class AIVerificationEngine:
 ```javascript
 const CommunityPlatform = {
   mobileApp: "React Native",
-  gamification: "Web3 Rewards",
   ngoTools: "Collaboration Suite",
   panchayatIntegration: "Local Gov API"
 };
@@ -89,9 +86,9 @@ const CommunityPlatform = {
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2800&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=📈+Real-Time+Performance+Analytics;⚡+Lightning+Fast+Processing;🎯+99.9%25+Accuracy+Rate;🚀+1000x+Speed+Improvement" alt="Metrics Typing" />
 
-</div>
-
-<table align="center">
+ </div>
+ 
+ <table align="center">
 <tr>
 <th>Metric</th>
 <th>Traditional</th>
@@ -106,8 +103,8 @@ const CommunityPlatform = {
 </tr>
 <tr>
 <td><strong>Verification Cost</strong></td>
-<td>$50-100/credit</td>
-<td><span style="color: #00D4AA">$0.50/credit</span></td>
+<td>₹50-100/credit</td>
+<td><span style="color: #00D4AA">₹0.50/credit</span></td>
 <td><span style="color: #FFD700">💰 99% reduction</span></td>
 </tr>
 <tr>
@@ -122,5 +119,13 @@ const CommunityPlatform = {
 <td><span style="color: #00D4AA">100% auditable</span></td>
 <td><span style="color: #FFD700">🔍 Full visibility</span></td>
 </tr>
+<tr>
+<td><strong>Compliance</strong></td>
+<td>Periodic audits, often delayed</td>
+<td>Real-time compliance and audit-ready</td>
+<td><span style="color: #FFD700">📊 Instant compliance</span></td>
+</tr>
 </table>
+</div>
+
 
