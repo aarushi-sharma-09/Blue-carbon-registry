@@ -97,7 +97,7 @@ const CommunityPlatform = {
 
 ```yaml
 Market Issues:
-  - Value: "₹100B market lacks transparency"
+  - Value: "Market lacks transparency"
   - Process: "Manual verification = fraud risk"
   - Structure: "Disconnected stakeholders"
   - Access: "Limited community participation"
@@ -123,8 +123,8 @@ BlueLedger Solutions:
   - Automation: "Smart contract tokenization"
   
 Performance Gains:
-  - Fraud Reduction: "99.9% accuracy"
-  - Speed Increase: "1000x faster processing"
+  - Fraud Reduction: "Improved accuracy"
+  - Speed Increase: "Reduction in verification Time & Cost"
   - Cost Reduction: "90% lower verification than regular"
   - Transparency: "100% auditable"
 ```
@@ -148,7 +148,7 @@ Performance Gains:
 <td><strong>Processing Time</strong></td>
 <td>6-12 months</td>
 <td><span style="color: #00D4AA">2-5 minutes</span></td>
-<td><span style="color: #FFD700">🚀 1000x faster</span></td>
+<td><span style="color: #FFD700">Faster Processing </span></td>
 </tr>
 <tr>
 <td><strong>Verification Cost</strong></td>
@@ -159,7 +159,7 @@ Performance Gains:
 <tr>
 <td><strong>Fraud Detection</strong></td>
 <td>70% accuracy</td>
-<td><span style="color: #00D4AA">99.9% accuracy</span></td>
+<td><span style="color: #00D4AA">Improved accuracy</span></td>
 <td><span style="color: #FFD700">🎯 43% improvement</span></td>
 </tr>
 <tr>
